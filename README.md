@@ -6,7 +6,3 @@ This course explores the concepts and algorithms at the foundation of modern art
 <h1>Project 0</h1>
 Degrees: Program that determines how many “degrees of separation” apart two actors are.
 TicTacToe: Using Minimax, an AI to play Tic-Tac-Toe optimally.
-
-<h1>Project 1</h1>
-Knights: Program to solve logic puzzles.
-Minesweeper: An AI to play Minesweeper.
